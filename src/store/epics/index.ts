@@ -1,0 +1,3 @@
+export { getPostsEpic } from "./get-posts.epic";
+export { deletePostEpic } from "./delete-post.epic";
+// other epics will be exported here...
